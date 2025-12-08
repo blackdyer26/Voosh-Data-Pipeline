@@ -222,20 +222,21 @@ python -m src.pipeline --health-check
 ```
 # 🛠️ Pipeline Execution
 The pipeline fetches data, transforms it, and logs the execution status.
-![Pipeline Execution Flow](results/Pipeline Flow Execution.png)
+![Pipeline Execution Flow](results/pipeline_flow_execution.png)
 
 # 📊 Project Dashboard
-![Retool Dashboard](results/Dashboard Preview 1.png)(results/Dashboard Preview 2.png)
+![Retool Dashboard](results/dashboard_preview_1.png)
+![](results/dashboard_preview_2.png)
 
 ### Health Check Output
-![Pipeline Health Check](results/Pipeline Health Check.png)
+![Pipeline Health Check](results/pipeline_health_check.png)
 
 ### Database Schema
 ![Schema](results/Schema.png)
 
 ### Check the Existing data
-![Existing Data](results/Existing Data.png)
+![Existing Data](results/existing_data.png)
 
 # 🔔 Monitoring & Alerts
 Automatic alerts are sent to Slack/Email upon failure.
-![Slack Alert](results/Slack Message.png)
+![Slack Alert](results/slack_message.png)
